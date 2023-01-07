@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/6m-software-2.10-assignment/static/css/main.6ac502aa.css",
+    "main.js": "/6m-software-2.10-assignment/static/js/main.ca3c46b6.js",
+    "index.html": "/6m-software-2.10-assignment/index.html",
+    "main.6ac502aa.css.map": "/6m-software-2.10-assignment/static/css/main.6ac502aa.css.map",
+    "main.ca3c46b6.js.map": "/6m-software-2.10-assignment/static/js/main.ca3c46b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ac502aa.css",
+    "static/js/main.ca3c46b6.js"
+  ]
+}
